@@ -137,3 +137,21 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Node and React
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.development.local
+
+# Expo / React Native
+.expo
+.expo-shared
+
+# System
+.DS_Store
+
+# Testing
+coverage/
